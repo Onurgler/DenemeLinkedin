@@ -1,3 +1,3 @@
 # DenemeLinkedin
  
-"TakeLinkedinProfilPDF.ipynb" dosyasında linkedin üzerinden 4 adet pdf çekilmkektedir.
+"TakeLinkedinProfilPDF.ipynb" dosyasında linkedin üzerinden 4 adet pdf çekilmektedir.
